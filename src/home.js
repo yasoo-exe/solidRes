@@ -1,4 +1,4 @@
-import homeHero from "./images/hero.jpg";
+import homeHero from "./images/sample1.jpeg";
 
 export default function home() {
   const heroDiv = document.createElement("div");

@@ -1,4 +1,4 @@
-import aboutMain from "./images/about.jpg";
+import aboutMain from "./images/sample2.jpeg";
 
 export default function about() {
   const aboutDiv = document.createElement("div");

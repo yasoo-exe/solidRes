@@ -1,9 +1,9 @@
-import menu1 from "./images/menu1.jpg";
-import menu2 from "./images/menu2.jpg";
-import menu3 from "./images/menu3.jpg";
-import menu4 from "./images/menu4.jpg";
-import menu5 from "./images/menu5.jpg";
-import menu6 from "./images/menu6.jpg";
+import menu1 from "./images/menu1.jpeg";
+import menu2 from "./images/menu2.jpeg";
+import menu3 from "./images/menu3.jpeg";
+import menu4 from "./images/menu4.jpeg";
+import menu5 from "./images/menu5.jpeg";
+import menu6 from "./images/menu6.jpeg";
 
 export default function menu() {
   const menuDiv = document.createElement("div");
